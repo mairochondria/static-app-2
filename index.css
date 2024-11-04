@@ -4,11 +4,32 @@
 	box-sizing: border-box;
 }
 
+#logo {
+	font-family: Montserrat;
+	font-weight: 300;
+	line-height: 32px;
+}
 
+.nav-link {
+	font-family: Montserrat;
+	font-weight: 300;
+	line-height: 24px;	
+	font-size: 20px;
+}
 
+#home h1 {
+	font-family: Montserrat;
+	font-weight: 800;
+	line-height: 44px;
+	font-size: 50px;
+}
 
-
-
+#home p {
+	font-family: Montserrat;
+	font-size: 26px;
+	font-weight: 200;
+	line-height: 26px;
+}
 
 #card1 {
 	width: 16rem;
@@ -24,4 +45,75 @@
 
 #card4 {
 	width: 16rem;
+}
+
+
+#categories-section h1 {
+	font-family: Montserrat;
+	font-weight: 800;
+	line-height: 44px;
+	font-size: 50px;
+}
+
+#categories h3 {
+	font-family: Montserrat;
+	font-weight: 300;
+}
+
+#resources h3 {
+	font-family: Montserrat;
+	font-weight: 300;
+}
+
+#resources h4 {
+	font-family: Montserrat;
+	font-weight: 300;
+}
+
+#resources p {
+	font-family: Montserrat;
+	font-weight: 200;
+	line-height: 26px;
+}
+
+#resources li {
+	font-family: Montserrat;
+	font-weight: 400;
+	line-height: 26px;
+}
+
+#mission h1 {
+	font-family: Montserrat;
+	font-weight: 800;
+	line-height: 44px;
+	font-size: 50px;
+}
+
+#mission p {
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 200;
+	line-height: 26px;
+}
+
+#contact h1 {
+	font-family: Montserrat;
+	font-weight: 800;
+	line-height: 44px;
+	font-size: 50px;
+}
+
+#contact p {
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 26px;
+}
+
+footer {
+	font-family: Montserrat;
+	font-weight: 300;
+	line-height: 24px;
+	text-align: left;
+	color: #FFFFFF;
 }
